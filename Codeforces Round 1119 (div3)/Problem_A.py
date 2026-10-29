@@ -8,3 +8,4 @@ for i in range (t):
             s+=1
     print(s)
     
+    
